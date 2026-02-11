@@ -13,3 +13,4 @@
 4. Евалуација
 
 #Линк до апликацијата:
+https://hirijezaimi.github.io/IKT_Moden_Dizajn/
